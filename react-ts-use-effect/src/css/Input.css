@@ -1,0 +1,12 @@
+.input {
+  margin-bottom: 2rem;
+}
+
+.input .label {
+  margin-right: 2rem;
+}
+
+.input .counter {
+  display: flex;
+  gap: 1rem;
+}
